@@ -14,10 +14,11 @@ on:
         description: "Select the kernel source"
         required: false
         default: "unifreq"
-        type: choice
+        type: string
         options:
           - unifreq
           - codesnas
+          - danielkucera
       kernel_version:
         description: "Select kernel version"
         required: false
