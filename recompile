@@ -22,7 +22,7 @@ auto_kernel="true"
 build_kernel=("5.4.160" "5.10.80")
 custom_name="-meson64-beta"
 kernel_org_repo="https://cdn.kernel.org/pub/linux/kernel/v5.x/"
-kernel_flippy_repo="unifreq"
+kernel_flippy_repo="danielkucera"
 kernel_flippy_branch="main"
 repo_url="flippy"
 
